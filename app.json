@@ -6,8 +6,8 @@
         "MDisk",
         "shortner"
     ],
-    "website": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
-    "repository": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
+    "website": "https://github.com/zmraj/MdiskBot",
+    "repository": "https://github.com/zmraj/MdiskBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
@@ -23,11 +23,11 @@
         },
         "CUSTOM_FOOTER": {
             "description": "Enter your Custom Footer",
-            "value": "eg. JOIN MY CHANNEL"
+            "value": "eg. JOIN MY CHANNEL @Latest_Hindi_Hollywood_HD_movies "
         },
         "MDISK_TOKEN": {
             "description": "Put your MDisk API key here",
-            "value": "j219piqFPsQBhba52F4l"
+            "value": ""
         }
     },
     "addons": [],
